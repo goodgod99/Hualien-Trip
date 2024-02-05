@@ -32,6 +32,8 @@
 
 - Sleeping boot Hostel `check-in 16:00-21:00`
 
+- 花蓮郭火腿 `09:00–22:00`
+
 - 魔咒Bar (19:00–04:00)
 
 ## 2/7 三
@@ -84,7 +86,22 @@
   >家傳東山鴨頭  
   >原醉  
 
-- 伴手禮 中華路
+- 花崗山剝皮辣椒 `10:00–20:00`
+  >[剝皮辣椒](https://chilihgs.com.tw/frontend/product#) $180
+
+- 杜倫先生 `09:00–22:00`
+  >[杜倫燒6入](https://www.mrturon.com/products/%E6%9D%9C%E5%80%AB%E7%87%926%E5%85%A5x1%E7%9B%92-20240127163545) $390  
+  >[地瓜燒10入](https://www.mrturon.com/products/%E5%9C%B0%E7%93%9C%E7%87%92) $239
+
+- 花蓮火車站
+
+- 蜂之鄉 `08:30–21:00`
+  >[黑金蜂潮糕](https://www.bee-pro.com/products/black-gold-bee-cake) $280  
+  >[原味蜂蜜蛋糕(550g)](https://www.bee-pro.com/products/original-honey-cake) $350
+
+- 洄瀾薯道 `09:00–21:30`
+  >[綜合花蓮薯](https://www.since1938.com/products/e9f492c1-ef26-43c5-b46c-cda0d8d631e8) $250  
+  >[花蓮薯糬](https://www.since1938.com/products/5f359c79-986d-43bb-9ea6-632510d3e6fc) $315
 
 - 區間快 4039 ( 花蓮 → 樹林 )
   - Departure: 21:05 花蓮
